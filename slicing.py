@@ -1,0 +1,13 @@
+name="Devanandh"
+#first_name=name[0]
+#first_name=name[0:2]
+#first_name=name[0:3]
+#first_name=name[4:9]
+#first_name=name[0:9:1]
+#first_name=name[::2]
+#reversed_name=name[::-1]
+#print(first_name)
+#print(reversed_name)
+website="http://google.com"
+slice=slice(7,-4)
+print(website[slice])
